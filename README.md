@@ -8,16 +8,17 @@ Primeiro desafio do Bootcamp GoStack 🚀
 <hr/>
 
 ### Ferramentas utilizadas:
+- [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/)
 - [Nodemon](https://nodemon.io/)
 - [Insomnia](https://insomnia.rest/)
 
 <hr/>
 
-### Como rodar:
+### Como usar:
 - Primeiro clone o repositório ou faça download;
-- Abra a pasta do projeto e rode no terminal:
-  > $ yarn
+- Abra a pasta do projeto e execute no terminal:
+  > $ yarn install
   
   > $ yarn dev
   
