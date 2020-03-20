@@ -33,3 +33,6 @@ Primeiro desafio do Bootcamp GoStack 🚀
   Método POST (criar tarefas): http://localhost:3000/projects/1/tasks, Colocar no body: { "title": "Novo tarefa" }
 
   Método PUT (atualizar projeto): http://localhost:3000/projects/1, Colocar no body: { "title": "altera titulo" }
+  
+![0](https://user-images.githubusercontent.com/12499627/77180260-6b91f900-6aa8-11ea-92cd-1cd3d1d18681.jpg)
+
